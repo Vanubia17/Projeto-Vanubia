@@ -1,0 +1,20 @@
+body {
+    background-color: #dbe6f8;
+}
+
+.cabecalho {
+    background-color: #f1f1f1;
+}
+
+a:link {
+    color: #4886bc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #c47ae5;
+}
